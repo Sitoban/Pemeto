@@ -24,7 +24,7 @@ function dOMSubtreeModified() {
     Timing.EndTime = new Date();
     //console.log("EndTime : "+Timing.EndTime);
   }
-  // console.log('DOM Changed');
+  // console.log('DOM Changed') + Robin;
   //chrome.runtime.sendMessage("Hello Sito!");
 }
 
