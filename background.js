@@ -1,3 +1,5 @@
+/* Author : SItoban Biswas */
+
 var statusType = {
     IDLE: 0,
     START: 1,
